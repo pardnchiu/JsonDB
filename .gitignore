@@ -1,0 +1,7 @@
+.DS_Store
+Rust/*
+
+go/data/*
+jsondb*
+
+memo.md
