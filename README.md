@@ -144,7 +144,11 @@ REMOVE logs {"date": {"$lt": "2024-01-01"}}
 
 This project is licensed under the [MIT](LICENSE) license.
 
-## 作者
+## Star
+
+[![Star](https://api.star-history.com/svg?repos=pardnchiu/JsonDB&type=Date)](https://www.star-history.com/#pardnchiu/JsonDB&Date)
+
+## Author
 
 <img src="https://avatars.githubusercontent.com/u/25631760" align="left" width="96" height="96" style="margin-right: 0.5rem;">
 
